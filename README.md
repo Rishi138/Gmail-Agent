@@ -10,9 +10,9 @@ A Gmail agent integrated with LangChain and powered by OpenAI's gpt-4o-mini, off
 
 ## Google Developer Setup
 1. **Create New Project**
-  - Navigate to [Google Console](https://console.cloud.google.com/) and create a new project tiled Gmail Agent
+   - Navigate to [Google Console](https://console.cloud.google.com/) and create a new project tiled Gmail Agent
 
-2. **Enable Gmail API**
+3. **Enable Gmail API**
   - Select [APIs & Services](https://console.cloud.google.com/apis/dashboard?) from the Quick access menu
   - Search Gmail API in the toolbar above and select the first option
   - Press Enable
