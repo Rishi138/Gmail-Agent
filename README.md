@@ -6,14 +6,7 @@ A Gmail agent integrated with LangChain and powered by OpenAI's gpt-4o-mini, off
 1. [Introduction](#Gmail-Agent)
 2. [Features](#features)
 3. [Google Developer Setup](#google-developer-setup)
-   1. [Create New Project](#create-new-project)
-   2. [Enable Gmail API](#enable-gmail-api)
-   3. [Credentials](#credentials)
-   4. [Permissions](#permissions)
 4. [Installation](#installation)
-   1. [Clone Repository](#clone-repository)
-   2. [Install Dependencies](#install-dependencies)
-   3. [Run Streamlit App](#run-streamlit-app)
 5. [Sample Prompts](#sample-prompts)
 
 ## Features
