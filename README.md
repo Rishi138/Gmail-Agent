@@ -1,6 +1,6 @@
 # Gmail-Agent
 
-A Gmail agent integrated with LangChain and powered by OpenAI's GPT-40-mini, offering AI-driven interactions and task execution, including drafting, sending, and summarizing emails, all within a user-friendly Streamlit interface.
+A Gmail agent integrated with LangChain and powered by OpenAI's gpt-4o-mini, offering AI-driven interactions and task execution, including drafting, sending, and summarizing emails, all within a user-friendly Streamlit interface.
 
 ## Features
 - **LangChain Model Integration**: Utilizes the ChatOpenAI model for AI-powered interactions.
