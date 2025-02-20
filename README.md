@@ -10,6 +10,7 @@
 This repository features a Gmail agent integrated with LangChain and powered by OpenAI's gpt-4o-mini, offering AI-driven interactions and task execution, including drafting, sending, and summarizing emails, all within a user-friendly Streamlit interface.
 
 Here is a screenshot of a sample prompt for this application to generate a very basic email draft. The image attached was unfortunately cut off at the end.
+
 ![image](https://github.com/user-attachments/assets/8140ac06-233b-42ae-919b-4a90b10abacb)
 
 In Gmail, a new draft was autonomously created with the following.
