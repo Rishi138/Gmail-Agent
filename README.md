@@ -2,6 +2,20 @@
 
 A Gmail agent integrated with LangChain and powered by OpenAI's gpt-4o-mini, offering AI-driven interactions and task execution, including drafting, sending, and summarizing emails, all within a user-friendly Streamlit interface.
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Google Developer Setup](#google-developer-setup)
+   1. [Create New Project](#create-new-project)
+   2. [Enable Gmail API](#enable-gmail-api)
+   3. [Credentials](#credentials)
+   4. [Permissions](#permissions)
+4. [Installation](#installation)
+   1. [Clone Repository](#clone-repository)
+   2. [Install Dependencies](#install-dependencies)
+   3. [Run Streamlit App](#run-streamlit-app)
+5. [Sample Prompts](#sample-prompts)
+
 ## Features
   - **OpenAI Model Integration**: Discuss and look over emails with powerful LLMs from OpenAI such as gpt-4o and gpt4o-mini.
   - **Gmail API Integration**: Employs Gmail tools to ask an LLM to draft, send, and reply to emails from an application hosted locally. 
