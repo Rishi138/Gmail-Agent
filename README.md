@@ -1,3 +1,10 @@
+## Table of Contents
+1. [Introduction](#Gmail-Agent)
+2. [Features](#features)
+3. [Google Developer Setup](#google-developer-setup)
+4. [Installation](#installation)
+5. [Sample Prompts](#sample-prompts)
+
 # Gmail-Agent
 
 A Gmail agent integrated with LangChain and powered by OpenAI's gpt-4o-mini, offering AI-driven interactions and task execution, including drafting, sending, and summarizing emails, all within a user-friendly Streamlit interface.
@@ -8,14 +15,6 @@ Here is a sample prompt for this application to generate a very basic email draf
 In Gmail, a new draft was autonomously created with the following.
 
 ![image](https://github.com/user-attachments/assets/f299a436-f415-482c-a6dc-8d5a7940a455)
-
-
-## Table of Contents
-1. [Introduction](#Gmail-Agent)
-2. [Features](#features)
-3. [Google Developer Setup](#google-developer-setup)
-4. [Installation](#installation)
-5. [Sample Prompts](#sample-prompts)
 
 ## Features
   - **OpenAI Model Integration**: Discuss and look over emails with powerful LLMs from OpenAI such as gpt-4o and gpt4o-mini.
