@@ -3,10 +3,10 @@
 A Gmail agent integrated with LangChain and powered by OpenAI's gpt-4o-mini, offering AI-driven interactions and task execution, including drafting, sending, and summarizing emails, all within a user-friendly Streamlit interface.
 
 ## Features
-  - **LangChain Model Integration**: Utilizes the ChatOpenAI model for AI-powered interactions.
-  - **Gmail API Integration**: Employs the GmailToolkit to access Gmail tools and execute tasks.
-  - **Conversation History**: Maintains and displays chat history using MemorySaver.
-  - **Streamlit UI**: Provides a real-time, user-friendly chat
+  - **OpenAI Model Integration**: Discuss and look over emails with powerful LLMs from OpenAI such as gpt-4o and gpt4o-mini.
+  - **Gmail API Integration**: Employs Gmail tools to ask an LLM to draft, send, and reply to emails from an application hosted locally. 
+  - **Conversation History**: Maintains and displays chat history to create more in-depth and context-aware conversations.
+  - **Streamlit UI**: Provides a real-time, user-friendly chat hosted on a local machine.
 
 ## Google Developer Setup
 1. **Create New Project**
@@ -42,4 +42,15 @@ pip3 install -r requirements.txt
 3. **Run Streamlit App**
 ```sh
 python -m streamlit run agent.py 
+```
+
+## Sample Prompts
+```
+Summarize the email thread with the client from the past week, including key points discussed, decisions made, and any action items or follow-ups required.
+```
+```
+Draft a professional email to my manager, summarizing the progress we've made on the recent marketing project, highlighting key milestones achieved, and outlining the next steps. Mention any challenges we faced and how we overcame them.
+```
+```
+Set up an automated email response to acknowledge receipt of incoming support requests and provide initial troubleshooting steps. Include contact information for further assistance. Make sure to ask me for any unknown information before sending the email.
 ```
