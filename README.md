@@ -48,9 +48,11 @@ python -m streamlit run agent.py
 ```
 Summarize the email thread with the client from the past week, including key points discussed, decisions made, and any action items or follow-ups required.
 ```
+
 ```
 Draft a professional email to my manager, summarizing the progress we've made on the recent marketing project, highlighting key milestones achieved, and outlining the next steps. Mention any challenges we faced and how we overcame them.
 ```
+
 ```
 Set up an automated email response to acknowledge receipt of incoming support requests and provide initial troubleshooting steps. Include contact information for further assistance. Make sure to ask me for any unknown information before sending the email.
 ```
