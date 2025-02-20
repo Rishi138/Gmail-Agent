@@ -2,8 +2,9 @@
 1. [Introduction](#Introduction)
 2. [Features](#features)
 3. [Google Developer Setup](#google-developer-setup)
-4. [Installation](#installation)
-5. [Sample Prompts](#sample-prompts)
+4. [OpenAI Setup](#openai-setup)
+5. [Installation](#installation)
+6. [Sample Prompts](#sample-prompts)
 
 # Introduction
 
@@ -41,7 +42,14 @@ In Gmail, a new draft was autonomously created with the following.
 4. **Permissions**
    - Navigate to [Audience](https://console.cloud.google.com/auth/audience?) screen
    - Scroll to bottom and add your email as a test user
-  
+
+## OpenAI Setup
+1. **Setup Your API Key**
+  - Follow Step 2 in the OpenAI Quickstart guide to set up your API key.
+
+2. **Add Enviromental Variable**
+  - Based on environment being used, follow according setup for environmental variables to add your OpenAI API key
+    
 ## Installation
 1. **Clone Repository**
 ```sh
