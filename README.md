@@ -13,19 +13,19 @@ A Gmail agent integrated with LangChain and powered by OpenAI's gpt-4o-mini, off
    - Navigate to [Google Console](https://console.cloud.google.com/) and create a new project tiled Gmail Agent
 
 3. **Enable Gmail API**
-  - Select [APIs & Services](https://console.cloud.google.com/apis/dashboard?) from the Quick access menu
-  - Search Gmail API in the toolbar above and select the first option
-  - Press Enable
+   - Select [APIs & Services](https://console.cloud.google.com/apis/dashboard?) from the Quick access menu
+   - Search Gmail API in the toolbar above and select the first option
+   - Press Enable
 
 3. **Credentials**
-  - Select [Credentials](https://console.cloud.google.com/apis/dashboard?) from the left hand menu
-  - Configure OAuth consent screen if not done already
-  - Navigate back to credential screen and create new set of credentials for desktop application
-  - Download JSON file and upload to folder containing agent.py
+   - Select [Credentials](https://console.cloud.google.com/apis/dashboard?) from the left hand menu
+   - Configure OAuth consent screen if not done already
+   - Navigate back to credential screen and create new set of credentials for desktop application
+   - Download JSON file and upload to folder containing agent.py
     
 4. **Permissions**
-  - Navigate to [Audience](https://console.cloud.google.com/auth/audience?) screen
-  - Scroll to bottom and add your email as a test user
+   - Navigate to [Audience](https://console.cloud.google.com/auth/audience?) screen
+   - Scroll to bottom and add your email as a test user
   
 ## Installation
 1. **Clone Repository**
