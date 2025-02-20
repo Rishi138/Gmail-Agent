@@ -3,7 +3,7 @@
 A Gmail agent integrated with LangChain and powered by OpenAI's gpt-4o-mini, offering AI-driven interactions and task execution, including drafting, sending, and summarizing emails, all within a user-friendly Streamlit interface.
 
 ## Table of Contents
-1. [Introduction](#introduction)
+1. [Introduction](#Gmail-Agent)
 2. [Features](#features)
 3. [Google Developer Setup](#google-developer-setup)
    1. [Create New Project](#create-new-project)
